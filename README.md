@@ -42,3 +42,8 @@ All commands are run from the root of the project, from a terminal:
 ## Want to learn more?
 
 Feel free to check Astros [documentation](https://docs.astro.build)
+
+# Preview
+
+![Preview1](./docs/screens/preview_1.png)
+![Preview2](./docs/screens/preview_2.png)
